@@ -32,7 +32,7 @@
 - #### ***_italic button_*** 
 - #### ***_color selected text_*** 
 - #### ***_color all text_*** 
-- #### ***_change backgroung color_*** 
+- #### ***_change background color_*** 
 - #### ***_print file_*** 
 - #### ***_select all_*** 
 - #### ***_clear all_*** 
@@ -49,3 +49,5 @@
 - #### ***_Tkinter colorchooser_***
 
 ---
+
+## <p align="center">***YouTude Video : https://youtu.be/aAYAPcsGCs0***</p>
