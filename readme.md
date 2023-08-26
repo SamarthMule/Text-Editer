@@ -5,8 +5,12 @@
 ![](https://img.shields.io/badge/Status-Complete-green.svg)
 
 ## <p align="center">***Introducing New Samarth's Project - Text Editor***</p>
+
+---
 <p align="center"><img src="Screenshot 2023-08-27 004422.png"></p>
-### <p align="center">💡 **This is a Multi-Functioning Text Editor, a Basic Project in Python** 💡</p>
+
+---
+### <p align="center">💡 ***This is a Multi-Functioning Text Editor, a Basic Project in Python*** 💡</p>
 
 ### ➡️ **<u>Features are:-</u>**
 - #### ***_file menu_*** 
