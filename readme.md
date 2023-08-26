@@ -1,6 +1,5 @@
 ![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
 ![](https://img.shields.io/badge/Main_Tool_Used-Tkinter-red.svg)
-![](https://img.shields.io/badge/Music_Player-Multi_Functioning-orange.svg)
 ![](https://img.shields.io/badge/Python_Version-3.7-brown.svg)
 ![](https://img.shields.io/badge/Status-Complete-green.svg)
 
